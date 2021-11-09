@@ -17,5 +17,5 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@example](https://github.com/) | 0 |
+| [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 1 |
 <!-- 2048Ranking -->
