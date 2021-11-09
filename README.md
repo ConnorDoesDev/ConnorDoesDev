@@ -1,5 +1,9 @@
 ![Discord](https://discord.c99.nl/widget/theme-3/744603004493365330.png)
 
+# My name is Connor.
+## I'm an 18 year old *professional* weeb.
+### There's nothing much to know about me, but if you have a question, you can surely [contact me](mailto:connor@zerotwo.wtf)
+
 ### If you're bored, you can play some 2048 on my profile.
 
 ##### Remember, this is a public game and anyone can play.
