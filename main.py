@@ -27,7 +27,7 @@ def main():
         if current["moves"][-1] == issueAuthor:
             # Reply and close the issue
             issue.create_comment(
-                f"{issueAuthor} You cannot play two times in a row!")
+                f"{issueAuthor} you cannot play twice in a row!")
             issue.edit(state='closed', labels=["invalid"])
             return
 
@@ -43,7 +43,7 @@ def main():
         slideDown(issue, issueAuthor)
     else:
         # Reply and close the issue
-        issue.create_comment(f"{issueAuthor} This action does not exist!")
+        issue.create_comment(f"{issueAuthor} this action does not exist!")
         issue.edit(state='closed', labels=["invalid"])
 
 
@@ -62,7 +62,8 @@ def newGame(issue, issueAuthor):
 
     if checkNextActions(getGrid()):
         # Reply and close the issue
-        issue.create_comment(f"{issueAuthor} The game is not ended!")
+        issue.create_comment(
+            f"{issueAuthor} you can't create a new game because the current one isn't finished!")
         issue.edit(state='closed', labels=["invalid"])
         return
 
@@ -123,7 +124,7 @@ def newGame(issue, issueAuthor):
         _current.write(currentFile)
 
     # End
-    issueText = "New game created!"
+    issueText = "created a new game"
     endAction(grid, 0, issue, issueAuthor, issueText, True)
 
 # Slide
@@ -155,7 +156,7 @@ def slideLeft(issue, issueAuthor):
 
                 lastCase = grid[line][case]
 
-    issueText = "You slided left!"
+    issueText = "you slided left!"
     endAction(grid, score, issue, issueAuthor, issueText, False)
 
 
@@ -185,7 +186,7 @@ def slideRight(issue, issueAuthor):
 
                 lastCase = grid[line][case]
 
-    issueText = "You slided right!"
+    issueText = "you slided right!"
     endAction(grid, score, issue, issueAuthor, issueText, False)
 
 
@@ -215,7 +216,7 @@ def slideUp(issue, issueAuthor):
 
                 lastCase = grid[line][case]
 
-    issueText = "You slided up!"
+    issueText = "you slided up!"
     endAction(grid, score, issue, issueAuthor, issueText, False)
 
 
@@ -245,7 +246,7 @@ def slideDown(issue, issueAuthor):
 
                 lastCase = grid[line][case]
 
-    issueText = "You slided down!"
+    issueText = "you slided down!"
     endAction(grid, score, issue, issueAuthor, issueText, False)
 
 # Utils
@@ -272,7 +273,7 @@ def addRandomNumber(grid):
         newCase = 4 if newCase == 1 else 2
         grid[line][case] = newCase
     else:
-        print("You lost!")
+        print("you lost!")
 
 
 def checkNextActions(grid):
@@ -381,7 +382,7 @@ def endAction(grid, score, issue, issueAuthor, issueText, isNewGame):
 
         # Reply and close the issue
         issue.create_comment(
-            f"{issueAuthor} {issueText}\nThe gameboard may take a few moments to refresh.\n\nAsk a friend to do the next action: [Share on Twitter...](https://twitter.com/intent/tweet?text=I%27m%20playing%202048%20on%20a%20GitHub%20Profile%20Readme!%20I%20just%20played.%20You%20have%20the%20action%20at%20https%3A%2F%2Fgithub.com%2FDarkempire78%2FDarkempire78)")
+            f"{issueAuthor} {issueText}\nthe board needs a few minutes to refresh.\n\nwhile you wait, ask a friend to do the next move! or [share on twitter...](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FConnorDoesDev&text=I%27m%20playing%202048%20on%20@ConnorDev_%27s%20@github%20profile%21%20can%20you%20do%20the%20next%20move%3F)")
         issue.edit(state='closed', labels=["done"])
 
     # Game ended
@@ -409,7 +410,8 @@ def endAction(grid, score, issue, issueAuthor, issueText, isNewGame):
 
         # Reply and close the issue
         players = list(set(current["moves"]))  # Remove duplicates
-        issue.create_comment(f"The game is over, well done! {players}")
+        issue.create_comment(
+            f"the game is over, well done, players! {players}")
         issue.edit(state='closed', labels=["done"])
 
 
