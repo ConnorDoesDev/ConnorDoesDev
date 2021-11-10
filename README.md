@@ -21,6 +21,6 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 2 |
+| [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 3 |
 | [@Bas950](https://github.com/Bas950) | 2 |
 <!-- 2048Ranking -->
