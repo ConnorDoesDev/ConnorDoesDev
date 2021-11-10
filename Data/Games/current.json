@@ -10,11 +10,11 @@
             2,
             null,
             null,
-            null
+            2
         ],
         [
-            null,
             2,
+            null,
             null,
             null
         ],
@@ -30,6 +30,7 @@
     "moves": [
         "@ConnorDoesDev",
         "@Bas950",
-        "@ConnorDoesDev"
+        "@ConnorDoesDev",
+        "@Bas950"
     ]
 }
