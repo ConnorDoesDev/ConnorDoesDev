@@ -7,21 +7,21 @@
             null
         ],
         [
-            null,
-            null,
             2,
-            null
-        ],
-        [
-            null,
             null,
             null,
             null
         ],
         [
+            null,
             2,
             null,
+            null
+        ],
+        [
+            2,
             4,
+            null,
             null
         ]
     ],
@@ -29,6 +29,7 @@
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
-        "@Bas950"
+        "@Bas950",
+        "@ConnorDoesDev"
     ]
 }
