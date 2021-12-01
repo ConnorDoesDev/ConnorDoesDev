@@ -23,4 +23,5 @@
 |---------------|:---------:|
 | [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 3 |
 | [@Bas950](https://github.com/Bas950) | 2 |
+| [@Swytiti](https://github.com/Swytiti) | 1 |
 <!-- 2048Ranking -->

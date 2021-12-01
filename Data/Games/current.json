@@ -1,10 +1,10 @@
 {
     "grid": [
         [
-            4,
-            4,
+            8,
+            2,
             null,
-            2
+            null
         ],
         [
             2,
@@ -15,23 +15,24 @@
         [
             null,
             null,
-            null,
+            2,
             null
         ],
         [
-            null,
             2,
+            null,
             null,
             null
         ]
     ],
-    "score": 4,
+    "score": 12,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
         "@Bas950",
         "@ConnorDoesDev",
         "@Bas950",
-        "@ConnorDoesDev"
+        "@ConnorDoesDev",
+        "@Swytiti"
     ]
 }
