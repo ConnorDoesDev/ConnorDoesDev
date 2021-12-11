@@ -1,4 +1,5 @@
 ![profile](https://discord.c99.nl/widget/theme-3/744603004493365330.png)
+
 ![vscode](https://dev.discordprofiles.me/badge/vscode/744603004493365330)
 ![status](https://dev.discordprofiles.me/badge/status/744603004493365330?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/744603004493365330)
