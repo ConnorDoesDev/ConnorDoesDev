@@ -1,12 +1,15 @@
-![Discord](https://discord.c99.nl/widget/theme-3/744603004493365330.png)
+![profile](https://discord.c99.nl/widget/theme-3/744603004493365330.png)
+![vscode](https://dev.discordprofiles.me/badge/vscode/744603004493365330)
+![status](https://dev.discordprofiles.me/badge/status/744603004493365330?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/744603004493365330)
 
-# My name is Connor.
-## I'm an 18 year old *professional* weeb who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
-### There's nothing much to know about me, but if you have a question, you can surely [contact me](mailto:connor@zerotwo.wtf)
+# my name is connor
+## i'm an 18 year old *professional* weeb who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
+### there's nothing much to know about me, but if you have a question, you can surely [contact me](mailto:connor@zerotwo.wtf)
 
-### If you're bored, you can play some 2048 on my profile.
+### if you're bored, you can play some 2048 here :D
 
-##### Remember, this is a public game and anyone can play.
+##### this is a public game and anyone can play
 
 <!-- 2048GameBoard -->
 <img src="https://github.com/ConnorDoesDev/ConnorDoesDev/blob/main/Data/gameboard.png" width="500"/>
