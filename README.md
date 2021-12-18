@@ -29,4 +29,5 @@
 | [@Bas950](https://github.com/Bas950) | 2 |
 | [@Swytiti](https://github.com/Swytiti) | 1 |
 | [@TheMaestro1s](https://github.com/TheMaestro1s) | 1 |
+| [@decca-dev](https://github.com/decca-dev) | 1 |
 <!-- 2048Ranking -->
