@@ -25,7 +25,7 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 3 |
+| [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 4 |
 | [@Bas950](https://github.com/Bas950) | 2 |
 | [@Swytiti](https://github.com/Swytiti) | 1 |
 | [@TheMaestro1s](https://github.com/TheMaestro1s) | 1 |
