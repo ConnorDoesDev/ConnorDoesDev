@@ -30,4 +30,5 @@
 | [@Swytiti](https://github.com/Swytiti) | 1 |
 | [@TheMaestro1s](https://github.com/TheMaestro1s) | 1 |
 | [@decca-dev](https://github.com/decca-dev) | 1 |
+| [@TheEnquirer](https://github.com/TheEnquirer) | 1 |
 <!-- 2048Ranking -->
