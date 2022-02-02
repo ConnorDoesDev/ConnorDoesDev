@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
-            4,
-            null,
-            null
-        ],
-        [
             8,
-            null,
+            4,
             2,
-            null
+            2
         ],
         [
             4,
             2,
             8,
             2
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null
         ]
     ],
     "score": 28,
@@ -38,6 +38,7 @@
         "@decca-dev",
         "@ConnorDoesDev",
         "@TheEnquirer",
-        "@hummusbird"
+        "@hummusbird",
+        "@part1cleth1ef"
     ]
 }
