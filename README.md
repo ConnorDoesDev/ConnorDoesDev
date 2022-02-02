@@ -31,4 +31,5 @@
 | [@TheMaestro1s](https://github.com/TheMaestro1s) | 1 |
 | [@decca-dev](https://github.com/decca-dev) | 1 |
 | [@TheEnquirer](https://github.com/TheEnquirer) | 1 |
+| [@hummusbird](https://github.com/hummusbird) | 1 |
 <!-- 2048Ranking -->
