@@ -1,18 +1,6 @@
 {
     "grid": [
         [
-            8,
-            4,
-            2,
-            2
-        ],
-        [
-            4,
-            2,
-            8,
-            2
-        ],
-        [
             null,
             null,
             null,
@@ -20,12 +8,24 @@
         ],
         [
             null,
-            null,
+            2,
             null,
             null
+        ],
+        [
+            8,
+            4,
+            2,
+            null
+        ],
+        [
+            4,
+            2,
+            8,
+            4
         ]
     ],
-    "score": 28,
+    "score": 32,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -39,6 +39,7 @@
         "@ConnorDoesDev",
         "@TheEnquirer",
         "@hummusbird",
-        "@part1cleth1ef"
+        "@part1cleth1ef",
+        "@Akhildotexe"
     ]
 }
