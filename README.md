@@ -34,4 +34,5 @@
 | [@hummusbird](https://github.com/hummusbird) | 1 |
 | [@part1cleth1ef](https://github.com/part1cleth1ef) | 1 |
 | [@Akhildotexe](https://github.com/Akhildotexe) | 1 |
+| [@BigSpice](https://github.com/BigSpice) | 1 |
 <!-- 2048Ranking -->

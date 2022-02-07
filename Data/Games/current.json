@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
-            2,
-            null,
-            null
-        ],
-        [
             8,
-            4,
             2,
-            null
-        ],
-        [
-            4,
             2,
-            8,
             4
+        ],
+        [
+            4,
+            4,
+            8,
+            null
+        ],
+        [
+            null,
+            2,
+            null,
+            2
+        ],
+        [
+            null,
+            null,
+            null,
+            null
         ]
     ],
     "score": 32,
@@ -40,6 +40,7 @@
         "@TheEnquirer",
         "@hummusbird",
         "@part1cleth1ef",
-        "@Akhildotexe"
+        "@Akhildotexe",
+        "@BigSpice"
     ]
 }
