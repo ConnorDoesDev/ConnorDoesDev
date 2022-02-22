@@ -28,11 +28,11 @@
 | [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 4 |
 | [@Bas950](https://github.com/Bas950) | 2 |
 | [@part1cleth1ef](https://github.com/part1cleth1ef) | 2 |
+| [@BigSpice](https://github.com/BigSpice) | 2 |
 | [@Swytiti](https://github.com/Swytiti) | 1 |
 | [@TheMaestro1s](https://github.com/TheMaestro1s) | 1 |
 | [@decca-dev](https://github.com/decca-dev) | 1 |
 | [@TheEnquirer](https://github.com/TheEnquirer) | 1 |
 | [@hummusbird](https://github.com/hummusbird) | 1 |
 | [@Akhildotexe](https://github.com/Akhildotexe) | 1 |
-| [@BigSpice](https://github.com/BigSpice) | 1 |
 <!-- 2048Ranking -->
