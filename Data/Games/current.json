@@ -1,22 +1,22 @@
 {
     "grid": [
         [
-            8,
-            2,
-            2,
-            4
-        ],
-        [
-            4,
-            4,
-            8,
+            16,
+            null,
+            null,
             null
         ],
         [
-            null,
+            16,
             2,
             null,
-            2
+            null
+        ],
+        [
+            4,
+            null,
+            null,
+            null
         ],
         [
             null,
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 32,
+    "score": 88,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -41,6 +41,7 @@
         "@hummusbird",
         "@part1cleth1ef",
         "@Akhildotexe",
-        "@BigSpice"
+        "@BigSpice",
+        "@part1cleth1ef"
     ]
 }
