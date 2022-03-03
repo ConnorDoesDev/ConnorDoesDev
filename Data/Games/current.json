@@ -9,7 +9,7 @@
         [
             null,
             null,
-            null,
+            2,
             null
         ],
         [
@@ -19,13 +19,13 @@
             null
         ],
         [
-            4,
-            4,
+            8,
+            2,
             null,
-            2
+            null
         ]
     ],
-    "score": 124,
+    "score": 132,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -44,6 +44,7 @@
         "@BigSpice",
         "@part1cleth1ef",
         "@BigSpice",
-        "@LostPaul"
+        "@LostPaul",
+        "@Tintenpatron"
     ]
 }
