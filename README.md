@@ -26,10 +26,10 @@
 | Players | Actions |
 |---------------|:---------:|
 | [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 4 |
+| [@LostPaul](https://github.com/LostPaul) | 3 |
 | [@Bas950](https://github.com/Bas950) | 2 |
 | [@part1cleth1ef](https://github.com/part1cleth1ef) | 2 |
 | [@BigSpice](https://github.com/BigSpice) | 2 |
-| [@LostPaul](https://github.com/LostPaul) | 2 |
 | [@Swytiti](https://github.com/Swytiti) | 1 |
 | [@TheMaestro1s](https://github.com/TheMaestro1s) | 1 |
 | [@decca-dev](https://github.com/decca-dev) | 1 |
