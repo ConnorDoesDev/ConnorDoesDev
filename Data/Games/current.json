@@ -1,14 +1,14 @@
 {
     "grid": [
         [
-            null,
             2,
+            null,
             null,
             null
         ],
         [
             null,
-            null,
+            2,
             null,
             null
         ],
@@ -19,13 +19,13 @@
             null
         ],
         [
-            8,
-            8,
+            16,
             4,
+            null,
             null
         ]
     ],
-    "score": 148,
+    "score": 164,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -49,6 +49,7 @@
         "@cestef",
         "@LostPaul",
         "@MaskDuck",
-        "@LostPaul"
+        "@LostPaul",
+        "@Assassinsorrow"
     ]
 }
