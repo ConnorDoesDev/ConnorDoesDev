@@ -1,16 +1,16 @@
 {
     "grid": [
         [
-            2,
+            null,
             null,
             null,
             null
         ],
         [
-            2,
+            4,
             null,
-            2,
-            null
+            null,
+            2
         ],
         [
             32,
@@ -21,11 +21,11 @@
         [
             16,
             4,
-            null,
+            2,
             null
         ]
     ],
-    "score": 164,
+    "score": 168,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -51,6 +51,7 @@
         "@MaskDuck",
         "@LostPaul",
         "@Assassinsorrow",
-        "@BreadShortage"
+        "@BreadShortage",
+        "@LostPaul"
     ]
 }
