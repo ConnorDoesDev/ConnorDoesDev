@@ -25,8 +25,8 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
+| [@LostPaul](https://github.com/LostPaul) | 5 |
 | [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 4 |
-| [@LostPaul](https://github.com/LostPaul) | 4 |
 | [@Bas950](https://github.com/Bas950) | 2 |
 | [@part1cleth1ef](https://github.com/part1cleth1ef) | 2 |
 | [@Akhildotexe](https://github.com/Akhildotexe) | 2 |
