@@ -8,24 +8,24 @@
         ],
         [
             32,
-            null,
-            null,
-            2
-        ],
-        [
-            16,
-            null,
+            2,
             null,
             null
         ],
         [
-            2,
+            16,
             2,
             null,
-            2
+            null
+        ],
+        [
+            4,
+            2,
+            null,
+            null
         ]
     ],
-    "score": 208,
+    "score": 212,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -58,6 +58,7 @@
         "@ConnorDoesDev",
         "@StrikerFRFX",
         "@sourcelocation",
-        "@StrikerFRFX"
+        "@StrikerFRFX",
+        "@smintf"
     ]
 }
