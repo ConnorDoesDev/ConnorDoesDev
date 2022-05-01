@@ -19,13 +19,13 @@
             null
         ],
         [
-            4,
-            4,
+            8,
             null,
+            2,
             null
         ]
     ],
-    "score": 216,
+    "score": 224,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -60,6 +60,7 @@
         "@sourcelocation",
         "@StrikerFRFX",
         "@smintf",
-        "@xamionex"
+        "@xamionex",
+        "@nmsturcke"
     ]
 }
