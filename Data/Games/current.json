@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            16,
             null,
             null,
-            null
+            2,
+            16
         ],
         [
+            null,
+            null,
             32,
-            2,
-            null,
-            null
+            2
         ],
         [
+            null,
+            null,
             16,
-            2,
-            null,
-            null
+            2
         ],
         [
-            8,
             null,
-            2,
-            null
+            null,
+            8,
+            2
         ]
     ],
     "score": 224,
@@ -61,6 +61,7 @@
         "@StrikerFRFX",
         "@smintf",
         "@xamionex",
-        "@nmsturcke"
+        "@nmsturcke",
+        "@sanderDijkxhoorn"
     ]
 }
