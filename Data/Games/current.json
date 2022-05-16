@@ -2,7 +2,7 @@
     "grid": [
         [
             null,
-            null,
+            2,
             2,
             16
         ],
@@ -10,7 +10,7 @@
             null,
             null,
             32,
-            2
+            4
         ],
         [
             null,
@@ -22,10 +22,10 @@
             null,
             null,
             8,
-            2
+            null
         ]
     ],
-    "score": 224,
+    "score": 228,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -62,6 +62,7 @@
         "@smintf",
         "@xamionex",
         "@nmsturcke",
-        "@sanderDijkxhoorn"
+        "@sanderDijkxhoorn",
+        "@YeffyCodeGit"
     ]
 }
