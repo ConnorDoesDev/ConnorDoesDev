@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
-            null,
             4,
-            16
-        ],
-        [
-            null,
-            null,
-            32,
-            4
-        ],
-        [
-            null,
-            null,
             16,
-            2
+            2,
+            null
         ],
         [
+            32,
+            4,
             null,
+            null
+        ],
+        [
+            16,
             2,
             null,
-            8
+            null
+        ],
+        [
+            2,
+            8,
+            null,
+            null
         ]
     ],
     "score": 232,
@@ -64,6 +64,7 @@
         "@nmsturcke",
         "@sanderDijkxhoorn",
         "@YeffyCodeGit",
-        "@HasNaX"
+        "@HasNaX",
+        "@muumif"
     ]
 }
