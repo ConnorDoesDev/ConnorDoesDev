@@ -3,25 +3,25 @@
         [
             4,
             16,
-            null,
-            null
+            2,
+            2
         ],
         [
             32,
             4,
             null,
-            2
+            null
         ],
         [
             16,
             2,
             null,
-            null
+            2
         ],
         [
             2,
             8,
-            2,
+            null,
             null
         ]
     ],
@@ -66,6 +66,7 @@
         "@YeffyCodeGit",
         "@HasNaX",
         "@muumif",
-        "@tomgx"
+        "@tomgx",
+        "@ConnorDoesDev"
     ]
 }
