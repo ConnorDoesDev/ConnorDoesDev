@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            null,
             4,
             16,
-            2,
-            2
+            4
         ],
         [
+            null,
+            null,
             32,
-            4,
-            null,
-            null
+            4
         ],
         [
+            null,
+            null,
             16,
-            2,
-            null,
-            2
+            4
         ],
         [
             2,
-            8,
             null,
-            null
+            2,
+            8
         ]
     ],
-    "score": 232,
+    "score": 240,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -67,6 +67,7 @@
         "@HasNaX",
         "@muumif",
         "@tomgx",
-        "@ConnorDoesDev"
+        "@ConnorDoesDev",
+        "@tomgx"
     ]
 }
