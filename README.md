@@ -7,8 +7,8 @@
 ![playing](https://dev.discordprofiles.me/badge/playing/744603004493365330)
 
 # my name is connor
-## i'm an 18 year old *professional* weeb who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
-### there's nothing much to know about me, but if you have a question, you can surely [contact me](mailto:connor@zerotwo.wtf)
+## i'm an 19 year old *professional* weeb who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
+### there's nothing much to know about me, but if you have a question, you can surely [contact me](mailto:connor@cstudios.gay)
 
 ### if you're bored, you can play some 2048 here :D
 
