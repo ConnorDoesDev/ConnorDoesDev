@@ -4,28 +4,28 @@
             null,
             4,
             16,
-            4
+            8
         ],
         [
             null,
             2,
             32,
-            4
-        ],
-        [
-            null,
-            16,
-            4,
             2
         ],
         [
             null,
-            null,
-            4,
+            16,
+            8,
             8
+        ],
+        [
+            null,
+            null,
+            2,
+            null
         ]
     ],
-    "score": 244,
+    "score": 260,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -70,6 +70,7 @@
         "@ConnorDoesDev",
         "@tomgx",
         "@TheRealAkazukin",
-        "@Craftzman7"
+        "@Craftzman7",
+        "@Mantou1233"
     ]
 }
