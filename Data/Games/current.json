@@ -8,7 +8,7 @@
         ],
         [
             2,
-            null,
+            2,
             null,
             null
         ],
@@ -16,13 +16,13 @@
             32,
             16,
             8,
-            2
+            null
         ],
         [
             2,
             32,
             4,
-            null
+            2
         ]
     ],
     "score": 312,
@@ -73,6 +73,7 @@
         "@Craftzman7",
         "@Mantou1233",
         "@giorno420",
-        "@MaskDuck"
+        "@MaskDuck",
+        "@antidotee"
     ]
 }
