@@ -1,31 +1,31 @@
 {
     "grid": [
         [
-            2,
-            null,
-            null,
-            4
-        ],
-        [
-            null,
-            null,
-            null,
-            4
-        ],
-        [
-            null,
-            32,
+            4,
+            64,
             16,
-            8
+            16
         ],
         [
-            2,
-            32,
+            null,
+            null,
             4,
             2
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            2,
+            null,
+            null
         ]
     ],
-    "score": 316,
+    "score": 408,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -75,6 +75,7 @@
         "@giorno420",
         "@MaskDuck",
         "@antidotee",
-        "@DevRayro"
+        "@DevRayro",
+        "@janast3369"
     ]
 }
