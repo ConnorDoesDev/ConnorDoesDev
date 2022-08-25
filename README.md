@@ -35,6 +35,6 @@
 | [@BigSpice](https://github.com/BigSpice) | 2 |
 | [@MaskDuck](https://github.com/MaskDuck) | 2 |
 | [@StrikerFRFX](https://github.com/StrikerFRFX) | 2 |
+| [@HasNaX](https://github.com/HasNaX) | 2 |
 | [@tomgx](https://github.com/tomgx) | 2 |
-| [@Swytiti](https://github.com/Swytiti) | 1 |
 <!-- 2048Ranking -->
