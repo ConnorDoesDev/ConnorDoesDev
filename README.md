@@ -5,6 +5,7 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/744603004493365330)
 ![status](https://dev.discordprofiles.me/badge/status/744603004493365330?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/744603004493365330)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M8FUNL6)
 
 # my name is connor
 ## *unprofessional* weeb who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
