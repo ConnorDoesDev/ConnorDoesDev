@@ -30,12 +30,12 @@
 |---------------|:---------:|
 | [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 7 |
 | [@LostPaul](https://github.com/LostPaul) | 5 |
+| [@HasNaX](https://github.com/HasNaX) | 3 |
 | [@Bas950](https://github.com/Bas950) | 2 |
 | [@part1cleth1ef](https://github.com/part1cleth1ef) | 2 |
 | [@Akhildotexe](https://github.com/Akhildotexe) | 2 |
 | [@BigSpice](https://github.com/BigSpice) | 2 |
 | [@MaskDuck](https://github.com/MaskDuck) | 2 |
 | [@StrikerFRFX](https://github.com/StrikerFRFX) | 2 |
-| [@HasNaX](https://github.com/HasNaX) | 2 |
 | [@tomgx](https://github.com/tomgx) | 2 |
 <!-- 2048Ranking -->
