@@ -1,28 +1,28 @@
 {
     "grid": [
         [
-            null,
             8,
             64,
-            32
+            32,
+            null
         ],
         [
+            8,
             null,
-            null,
-            null,
-            8
-        ],
-        [
-            null,
-            2,
             null,
             null
         ],
         [
-            null,
+            2,
             null,
             null,
             2
+        ],
+        [
+            2,
+            null,
+            null,
+            null
         ]
     ],
     "score": 460,
@@ -79,6 +79,7 @@
         "@janast3369",
         "@HasNaX",
         "@ConnorDoesDev",
-        "@HasNaX"
+        "@HasNaX",
+        "@Craftzman7"
     ]
 }
