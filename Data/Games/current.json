@@ -1,22 +1,22 @@
 {
     "grid": [
         [
-            8,
+            16,
             64,
             32,
-            null
-        ],
-        [
-            8,
-            null,
-            null,
-            null
-        ],
-        [
-            2,
-            null,
-            null,
             2
+        ],
+        [
+            4,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null
         ],
         [
             2,
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 460,
+    "score": 480,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -80,6 +80,7 @@
         "@HasNaX",
         "@ConnorDoesDev",
         "@HasNaX",
-        "@Craftzman7"
+        "@Craftzman7",
+        "@jeremie-j"
     ]
 }
