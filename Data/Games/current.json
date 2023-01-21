@@ -8,9 +8,9 @@
         ],
         [
             2,
-            2,
             null,
-            4
+            null,
+            8
         ],
         [
             null,
@@ -25,7 +25,7 @@
             null
         ]
     ],
-    "score": 480,
+    "score": 492,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -83,6 +83,7 @@
         "@Craftzman7",
         "@jeremie-j",
         "@TrentTrentTrent",
-        "@SoloUnity"
+        "@SoloUnity",
+        "@Hilex23"
     ]
 }
