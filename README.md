@@ -28,7 +28,7 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 7 |
+| [@ConnorDoesDev](https://github.com/ConnorDoesDev) | 8 |
 | [@LostPaul](https://github.com/LostPaul) | 5 |
 | [@HasNaX](https://github.com/HasNaX) | 3 |
 | [@Bas950](https://github.com/Bas950) | 2 |
