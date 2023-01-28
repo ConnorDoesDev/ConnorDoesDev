@@ -382,7 +382,7 @@ def endAction(grid, score, issue, issueAuthor, issueText, isNewGame):
 
         # Reply and close the issue
         issue.create_comment(
-            f"{issueAuthor} {issueText}\nthe board needs a few minutes to refresh.\n\nwhile you wait, ask a friend to do the next move! or [share on twitter...](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FConnorDoesDev&text=I%27m%20playing%202048%20on%20@ConnorDev_%27s%20@github%20profile%21%20can%20you%20do%20the%20next%20move%3F)")
+            f"{issueAuthor} {issueText}\nthe board needs a few minutes to refresh.\n\nwhile you wait, ask a friend to do the next move! or [share on twitter...](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FConnorDoesDev&text=I%27m%20playing%202048%20on%20@connordoesdev%27s%20@github%20profile%21%20can%20you%20do%20the%20next%20move%3F)")
         issue.edit(state='closed', labels=["done"])
 
     # Game ended
