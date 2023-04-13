@@ -1,7 +1,7 @@
 ![funny](https://user-images.githubusercontent.com/103423681/162727343-39ba4a0c-26fa-4682-9d02-7e158e3f4f85.gif)
 
 ![profile](https://discord.c99.nl/widget/theme-3/1088882977985003620.png)
-
+[![spotify](https://dev.discordprofiles.me/badge/spotify/1088882977985003620)](https://dev.discordprofiles.me/openspotify/1088882977985003620)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/1088882977985003620)
 ![status](https://dev.discordprofiles.me/badge/status/1088882977985003620?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/1088882977985003620)
