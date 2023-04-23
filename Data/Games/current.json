@@ -7,25 +7,25 @@
             2
         ],
         [
-            4,
+            8,
             null,
             null,
-            4
+            null
+        ],
+        [
+            2,
+            null,
+            null,
+            2
         ],
         [
             2,
             null,
             null,
             null
-        ],
-        [
-            null,
-            null,
-            null,
-            2
         ]
     ],
-    "score": 496,
+    "score": 504,
     "bestScore": 0,
     "moves": [
         "@ConnorDoesDev",
@@ -86,6 +86,7 @@
         "@SoloUnity",
         "@Hilex23",
         "@ConnorDoesDev",
-        "@owlw"
+        "@owlw",
+        "@ItsSyfe"
     ]
 }
