@@ -6,11 +6,6 @@
 
 ![vscode](https://dev.discordprofiles.me/badge/vscode/1088882977985003620)
 
-![status](https://dev.discordprofiles.me/badge/status/1088882977985003620?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/1088882977985003620)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M8FUNL6)
-
 # my name is connor
 ## *unprofessional* weeb who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
 ### there's nothing much to know about me, but if you have a question, you can surely [contact me](mailto:connor@cstudios.gay)
