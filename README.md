@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M8FUNL6)
 ![funny](https://user-images.githubusercontent.com/103423681/162727343-39ba4a0c-26fa-4682-9d02-7e158e3f4f85.gif)
 
 ![profile](https://discord.c99.nl/widget/theme-3/1088882977985003620.png)
@@ -8,8 +7,8 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/1088882977985003620)
 
 # my name is connor
-## *unprofessional* weeb who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
-### there's nothing much to know about me, but if you have a question, you can surely [contact me](mailto:connor@cstudios.gay)
+## student who's programming all day ([![wakatime](https://wakatime.com/badge/user/b2333aba-310c-4dc1-b38d-616928f60374.svg)](https://wakatime.com/@b2333aba-310c-4dc1-b38d-616928f60374) - _this is by far not everything_). 
+### there's nothing much to know about me, but if you have a question, you can [contact me](mailto:c0nnor@airmail.cc)
 
 ### if you're bored, you can play some 2048 here :D
 
